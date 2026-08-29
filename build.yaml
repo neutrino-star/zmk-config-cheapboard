@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: ferris_rev02_left
+    shield: cheapboard_left
   - board: nice_nano_v2
-    shield: ferris_rev02_right
+    shield: cheapboard_right
