@@ -1,0 +1,5 @@
+config SHIELD_CHEAPBOARD_LEFT
+    def_bool $(shields_list_contains,cheapboard_left)
+
+config SHIELD_CHEAPBOARD_RIGHT
+    def_bool $(shields_list_contains,cheapboard_right)
